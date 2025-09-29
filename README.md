@@ -57,3 +57,18 @@ student-data-warehouse/
 ---
 
 📌 *Note: This project uses mock/generated data for demonstration purposes only.*
+
+---
+
+## 📊 Reports & Visualizations
+
+### Enrollment by Major
+![Enrollment by Major](reports/enrollment_by_major.png)
+
+### Course Enrollments
+![Course Enrollments](reports/course_enrollments.png)
+
+### Student Satisfaction Survey
+![Satisfaction Scores](reports/satisfaction_scores.png)
+
+---

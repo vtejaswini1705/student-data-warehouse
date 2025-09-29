@@ -1,0 +1,7 @@
+enrollment_id,student_id,course_id,term,grade
+1001,1,101,Fall2022,A
+1002,1,102,Fall2022,B
+1003,2,105,Fall2021,B+
+1004,3,102,Spring2023,A-
+1005,4,103,Fall2020,C+
+1006,5,104,Fall2022,B
